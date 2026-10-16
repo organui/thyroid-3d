@@ -1,0 +1,418 @@
+{
+  "dataset": "BodyParts3D / Anatomography",
+  "version": "4.3",
+  "variant": "Object set 4.3, ontology tree FMA3.0; official IS-A concept-to-element mapping",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "sourceLicenseStatement": "https://lifesciencedb.jp/bp3d/info/index.html#License",
+  "credit": "BodyParts3D / Anatomography, © The Database Center for Life Science. CC BY-SA 2.1 Japan. Adapted by OrganUI.",
+  "mirror": {
+    "repository": "https://github.com/olivercase/body_parts_3d_api",
+    "commit": "fd527e6f4daf732fd814314d9257df5877b844bc"
+  },
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -34.1917,
+        -129,
+        1285.09
+      ],
+      "max": [
+        28.8413,
+        -77.366,
+        1440.86
+      ]
+    },
+    "centerMm": [
+      -2.6751999999999985,
+      -103.18299999999999,
+      1362.975
+    ],
+    "scale": 0.025,
+    "axes": "[x, z, -y]"
+  },
+  "runtime": {
+    "file": "thyroid.glb",
+    "bytes": 1833032,
+    "sha256": "7247b9f636bbd72d7a2850e4fc3a438513e76df7d3859af873e2a79b32cd4b0a"
+  },
+  "structures": [
+    {
+      "id": "right-lobe",
+      "fma": "FMA13368",
+      "concepts": [
+        "FMA13368"
+      ],
+      "sourceName": "right lobe of thyroid gland",
+      "elements": [
+        {
+          "element": "FJ3672",
+          "concept": "FMA13368",
+          "sourceName": "Right lobe of thyroid gland",
+          "sha256": "579d28267ec22b2536878fe2c78947f812d60e3ce3b9e5621f1faab7ce6f63f2",
+          "bytes": 1453612,
+          "vertices": 15183,
+          "triangles": 5061
+        }
+      ]
+    },
+    {
+      "id": "left-lobe",
+      "fma": "FMA13369",
+      "concepts": [
+        "FMA13369"
+      ],
+      "sourceName": "left lobe of thyroid gland",
+      "elements": [
+        {
+          "element": "FJ3671",
+          "concept": "FMA13369",
+          "sourceName": "Left lobe of thyroid gland",
+          "sha256": "2a137c718b0f7f6150978730c78f9003db6dce5324e31ba5cb368d6ce7f57c58",
+          "bytes": 1338937,
+          "vertices": 14223,
+          "triangles": 4741
+        }
+      ]
+    },
+    {
+      "id": "isthmus",
+      "fma": "FMA49178",
+      "concepts": [
+        "FMA49178"
+      ],
+      "sourceName": "isthmus of thyroid gland",
+      "elements": [
+        {
+          "element": "FJ3670",
+          "concept": "FMA49178",
+          "sourceName": "Isthmus of thyroid gland",
+          "sha256": "798a3b54f78eb3cc20f118b914202855e003b252a7e479f022fe1c2d6b9b14c0",
+          "bytes": 493303,
+          "vertices": 5238,
+          "triangles": 1746
+        }
+      ]
+    },
+    {
+      "id": "right-superior-parathyroid",
+      "fma": "FMA55560",
+      "concepts": [
+        "FMA55560"
+      ],
+      "sourceName": "right superior parathyroid gland",
+      "elements": [
+        {
+          "element": "FJ3676",
+          "concept": "FMA55560",
+          "sourceName": "Right superior parathyroid gland",
+          "sha256": "aa3bd725d5702aeaab656f42c0d3c423b609628c00680a4be113c01e3d9c8d1a",
+          "bytes": 7796,
+          "vertices": 73,
+          "triangles": 136
+        }
+      ]
+    },
+    {
+      "id": "right-inferior-parathyroid",
+      "fma": "FMA55562",
+      "concepts": [
+        "FMA55562"
+      ],
+      "sourceName": "right inferior parathyroid gland",
+      "elements": [
+        {
+          "element": "FJ3675",
+          "concept": "FMA55562",
+          "sourceName": "Right inferior parathyroid gland",
+          "sha256": "f8c9b50c20f355868e1b522ddb38cf8f25779afd40fc7505012361964ea1bc00",
+          "bytes": 8182,
+          "vertices": 75,
+          "triangles": 146
+        }
+      ]
+    },
+    {
+      "id": "left-superior-parathyroid",
+      "fma": "FMA55561",
+      "concepts": [
+        "FMA55561"
+      ],
+      "sourceName": "left superior parathyroid gland",
+      "elements": [
+        {
+          "element": "FJ3674",
+          "concept": "FMA55561",
+          "sourceName": "Left superior parathyroid gland",
+          "sha256": "8c0fa01bc501ccca78d11bf3c4572160d96d1f284c171c64deb2992a1ea445fd",
+          "bytes": 7984,
+          "vertices": 75,
+          "triangles": 142
+        }
+      ]
+    },
+    {
+      "id": "left-inferior-parathyroid",
+      "fma": "FMA55563",
+      "concepts": [
+        "FMA55563"
+      ],
+      "sourceName": "left inferior parathyroid gland",
+      "elements": [
+        {
+          "element": "FJ3673",
+          "concept": "FMA55563",
+          "sourceName": "Left inferior parathyroid gland",
+          "sha256": "28856a004c1398a05a667947cc0df0f01f2d02319b9fe0ad53fe4ffa7b49417a",
+          "bytes": 8821,
+          "vertices": 82,
+          "triangles": 160
+        }
+      ]
+    },
+    {
+      "id": "hyoid-bone",
+      "fma": "FMA52749",
+      "concepts": [
+        "FMA52749"
+      ],
+      "sourceName": "hyoid bone",
+      "elements": [
+        {
+          "element": "FJ2772",
+          "concept": "FMA52749",
+          "sourceName": "Hyoid bone",
+          "sha256": "0e29dd64fd4bca2c4c6e2079bf6df138f033f11faf2d3702ab5788b7e3357d49",
+          "bytes": 75198,
+          "vertices": 687,
+          "triangles": 1196
+        }
+      ]
+    },
+    {
+      "id": "thyroid-cartilage",
+      "fma": "FMA55099",
+      "concepts": [
+        "FMA55099"
+      ],
+      "sourceName": "thyroid cartilage",
+      "elements": [
+        {
+          "element": "FJ2808",
+          "concept": "FMA55099",
+          "sourceName": "Thyroid cartilage",
+          "sha256": "7ee325a7e90428925aa6885abb683d9e06df2fe13f8f35f398a2ae6de1ec2a21",
+          "bytes": 161287,
+          "vertices": 1360,
+          "triangles": 2610
+        }
+      ]
+    },
+    {
+      "id": "cricoid-cartilage",
+      "fma": "FMA9615",
+      "concepts": [
+        "FMA9615"
+      ],
+      "sourceName": "cricoid cartilage",
+      "elements": [
+        {
+          "element": "FJ2440",
+          "concept": "FMA9615",
+          "sourceName": "Cricoid cartilage",
+          "sha256": "4621d2c2d7d804fc4c7becedadf5d3507ac344888a00ef69573c50841402e877",
+          "bytes": 105143,
+          "vertices": 937,
+          "triangles": 1702
+        }
+      ]
+    },
+    {
+      "id": "trachea",
+      "fma": "FMA7394",
+      "concepts": [
+        "FMA7394"
+      ],
+      "sourceName": "trachea",
+      "elements": [
+        {
+          "element": "FJ2541",
+          "concept": "FMA7394",
+          "sourceName": "Trachea",
+          "sha256": "a070da7f54750cdeb3d169f13f0f2f0c0c420c253aba9c3ce42fecc36cb4c799",
+          "bytes": 320579,
+          "vertices": 2607,
+          "triangles": 4996
+        }
+      ]
+    },
+    {
+      "id": "common-carotid-artery",
+      "fma": "FMA69325",
+      "concepts": [
+        "FMA69325"
+      ],
+      "sourceName": "trunk of right common carotid artery",
+      "elements": [
+        {
+          "element": "FJ4986",
+          "concept": "FMA69325",
+          "sourceName": "Trunk of right common carotid artery",
+          "sha256": "ca755ed77030afa1913f6ebc0ab88a8c16799a3e99d07a09275c54ea208bc1d7",
+          "bytes": 217376,
+          "vertices": 1755,
+          "triangles": 3506
+        }
+      ]
+    },
+    {
+      "id": "superior-thyroid-artery",
+      "fma": "FMA66472",
+      "concepts": [
+        "FMA66472",
+        "FMA49489",
+        "FMA49495",
+        "FMA49492"
+      ],
+      "sourceName": "trunk and anterior, lateral and posterior glandular branches of right superior thyroid artery",
+      "elements": [
+        {
+          "element": "FJ5011",
+          "concept": "FMA66472",
+          "sourceName": "Trunk of right superior thyroid artery",
+          "sha256": "fa1b5b6b10bf4ba7f4c64c4166ff7d2f4a727bf8bce8ad4b827fc6c6ec17995e",
+          "bytes": 38879,
+          "vertices": 335,
+          "triangles": 666
+        },
+        {
+          "element": "FJ5024",
+          "concept": "FMA49489",
+          "sourceName": "Anterior glandular branch of right superior thyroid artery",
+          "sha256": "e88349aaaeb7ff497278b32b7e22e98f6424f012ec89e467fc67b09e707add8a",
+          "bytes": 35236,
+          "vertices": 424,
+          "triangles": 398
+        },
+        {
+          "element": "FJ5112",
+          "concept": "FMA49495",
+          "sourceName": "Lateral glandular branch of right superior thyroid artery",
+          "sha256": "a96a08cd9fb7678f7a90e5fda0049457d75e52b3d72c498788231d9dff533d5c",
+          "bytes": 22925,
+          "vertices": 272,
+          "triangles": 262
+        },
+        {
+          "element": "FJ5163",
+          "concept": "FMA49492",
+          "sourceName": "Posterior glandular branch of right superior thyroid artery",
+          "sha256": "d6cc1149ac13efe72dbda39b7719882d0f7e42bc0e554fc6997e2a3c036d9e8a",
+          "bytes": 20414,
+          "vertices": 205,
+          "triangles": 304
+        }
+      ]
+    },
+    {
+      "id": "superior-thyroid-vein",
+      "fma": "FMA50808",
+      "concepts": [
+        "FMA50808"
+      ],
+      "sourceName": "right superior thyroid vein",
+      "elements": [
+        {
+          "element": "FJ5231",
+          "concept": "FMA50808",
+          "sourceName": "Right superior thyroid vein",
+          "sha256": "3f0d2261340d017913708d10ec35517935e4210ca25a921d7fe300f06f98c884",
+          "bytes": 208072,
+          "vertices": 1884,
+          "triangles": 3022
+        }
+      ]
+    },
+    {
+      "id": "middle-thyroid-vein",
+      "fma": "FMA50824",
+      "concepts": [
+        "FMA50824"
+      ],
+      "sourceName": "right middle thyroid vein",
+      "elements": [
+        {
+          "element": "FJ4999",
+          "concept": "FMA50824",
+          "sourceName": "Right middle thyroid vein",
+          "sha256": "fa8dfaa98163a474b35275aeef67846462cef54def0405b48b410f7ea58a40df",
+          "bytes": 47063,
+          "vertices": 529,
+          "triangles": 574
+        }
+      ]
+    },
+    {
+      "id": "inferior-thyroid-veins",
+      "fma": "FMA4757",
+      "concepts": [
+        "FMA4757"
+      ],
+      "sourceName": "right inferior thyroid vein",
+      "elements": [
+        {
+          "element": "FJ5099",
+          "concept": "FMA4757",
+          "sourceName": "Right inferior thyroid vein",
+          "sha256": "868e511ab850b8d6287ba59dc28ffc2d629a68b92071461ec8706564a79710ff",
+          "bytes": 404679,
+          "vertices": 3311,
+          "triangles": 6176
+        }
+      ]
+    },
+    {
+      "id": "right-recurrent-laryngeal-nerve",
+      "fma": "FMA80694",
+      "concepts": [
+        "FMA80694"
+      ],
+      "sourceName": "trunk of right recurrent laryngeal nerve",
+      "elements": [
+        {
+          "element": "FJ4021",
+          "concept": "FMA80694",
+          "sourceName": "Trunk of right recurrent laryngeal nerve",
+          "sha256": "788f9eee2f853038749d9de7f7158d31666ccdc292143ba661afad7047de5fac",
+          "bytes": 157643,
+          "vertices": 1302,
+          "triangles": 2596
+        }
+      ]
+    },
+    {
+      "id": "left-recurrent-laryngeal-nerve",
+      "fma": "FMA80695",
+      "concepts": [
+        "FMA80695"
+      ],
+      "sourceName": "trunk of left recurrent laryngeal nerve",
+      "elements": [
+        {
+          "element": "FJ3923",
+          "concept": "FMA80695",
+          "sourceName": "Trunk of left recurrent laryngeal nerve",
+          "sha256": "d7a4d859120d395bc487b1ceb87f46d4e5157926802371da94ec9e2edc5a8164",
+          "bytes": 315416,
+          "vertices": 2538,
+          "triangles": 5008
+        }
+      ]
+    }
+  ]
+}

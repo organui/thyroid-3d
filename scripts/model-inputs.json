@@ -1,0 +1,198 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "objects": [
+    {
+      "id": "FJ3672",
+      "file": "FJ3672.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3672_BP19828_FMA13368_Right%20lobe%20of%20thyroid%20gland.obj",
+      "sha256": "579d28267ec22b2536878fe2c78947f812d60e3ce3b9e5621f1faab7ce6f63f2",
+      "bytes": 1453612,
+      "mirrorPath": "meshes/FJ3672_BP19828_FMA13368_Right lobe of thyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3672_BP19828_FMA13368_Right%20lobe%20of%20thyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3671",
+      "file": "FJ3671.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3671_BP21433_FMA13369_Left%20lobe%20of%20thyroid%20gland.obj",
+      "sha256": "2a137c718b0f7f6150978730c78f9003db6dce5324e31ba5cb368d6ce7f57c58",
+      "bytes": 1338937,
+      "mirrorPath": "meshes/FJ3671_BP21433_FMA13369_Left lobe of thyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3671_BP21433_FMA13369_Left%20lobe%20of%20thyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3670",
+      "file": "FJ3670.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3670_BP21406_FMA49178_Isthmus%20of%20thyroid%20gland.obj",
+      "sha256": "798a3b54f78eb3cc20f118b914202855e003b252a7e479f022fe1c2d6b9b14c0",
+      "bytes": 493303,
+      "mirrorPath": "meshes/FJ3670_BP21406_FMA49178_Isthmus of thyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3670_BP21406_FMA49178_Isthmus%20of%20thyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3676",
+      "file": "FJ3676.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3676_BP23811_FMA55560_Right%20superior%20parathyroid%20gland.obj",
+      "sha256": "aa3bd725d5702aeaab656f42c0d3c423b609628c00680a4be113c01e3d9c8d1a",
+      "bytes": 7796,
+      "mirrorPath": "meshes/FJ3676_BP23811_FMA55560_Right superior parathyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3676_BP23811_FMA55560_Right%20superior%20parathyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3675",
+      "file": "FJ3675.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3675_BP23812_FMA55562_Right%20inferior%20parathyroid%20gland.obj",
+      "sha256": "f8c9b50c20f355868e1b522ddb38cf8f25779afd40fc7505012361964ea1bc00",
+      "bytes": 8182,
+      "mirrorPath": "meshes/FJ3675_BP23812_FMA55562_Right inferior parathyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3675_BP23812_FMA55562_Right%20inferior%20parathyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3674",
+      "file": "FJ3674.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3674_BP23783_FMA55561_Left%20superior%20parathyroid%20gland.obj",
+      "sha256": "8c0fa01bc501ccca78d11bf3c4572160d96d1f284c171c64deb2992a1ea445fd",
+      "bytes": 7984,
+      "mirrorPath": "meshes/FJ3674_BP23783_FMA55561_Left superior parathyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3674_BP23783_FMA55561_Left%20superior%20parathyroid%20gland.obj"
+    },
+    {
+      "id": "FJ3673",
+      "file": "FJ3673.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3673_BP21598_FMA55563_Left%20inferior%20parathyroid%20gland.obj",
+      "sha256": "28856a004c1398a05a667947cc0df0f01f2d02319b9fe0ad53fe4ffa7b49417a",
+      "bytes": 8821,
+      "mirrorPath": "meshes/FJ3673_BP21598_FMA55563_Left inferior parathyroid gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3673_BP21598_FMA55563_Left%20inferior%20parathyroid%20gland.obj"
+    },
+    {
+      "id": "FJ2772",
+      "file": "FJ2772.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj",
+      "sha256": "0e29dd64fd4bca2c4c6e2079bf6df138f033f11faf2d3702ab5788b7e3357d49",
+      "bytes": 75198,
+      "mirrorPath": "meshes/FJ2772_BP22977_FMA52749_Hyoid bone.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj"
+    },
+    {
+      "id": "FJ2808",
+      "file": "FJ2808.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2808_BP22917_FMA55099_Thyroid%20cartilage.obj",
+      "sha256": "7ee325a7e90428925aa6885abb683d9e06df2fe13f8f35f398a2ae6de1ec2a21",
+      "bytes": 161287,
+      "mirrorPath": "meshes/FJ2808_BP22917_FMA55099_Thyroid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2808_BP22917_FMA55099_Thyroid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2440",
+      "file": "FJ2440.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2440_BP22903_FMA9615_Cricoid%20cartilage.obj",
+      "sha256": "4621d2c2d7d804fc4c7becedadf5d3507ac344888a00ef69573c50841402e877",
+      "bytes": 105143,
+      "mirrorPath": "meshes/FJ2440_BP22903_FMA9615_Cricoid cartilage.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2440_BP22903_FMA9615_Cricoid%20cartilage.obj"
+    },
+    {
+      "id": "FJ2541",
+      "file": "FJ2541.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2541_BP21463_FMA7394_Trachea.obj",
+      "sha256": "a070da7f54750cdeb3d169f13f0f2f0c0c420c253aba9c3ce42fecc36cb4c799",
+      "bytes": 320579,
+      "mirrorPath": "meshes/FJ2541_BP21463_FMA7394_Trachea.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2541_BP21463_FMA7394_Trachea.obj"
+    },
+    {
+      "id": "FJ4986",
+      "file": "FJ4986.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4986_BP23191_FMA69325_Trunk%20of%20right%20common%20carotid%20artery.obj",
+      "sha256": "ca755ed77030afa1913f6ebc0ab88a8c16799a3e99d07a09275c54ea208bc1d7",
+      "bytes": 217376,
+      "mirrorPath": "meshes/FJ4986_BP23191_FMA69325_Trunk of right common carotid artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4986_BP23191_FMA69325_Trunk%20of%20right%20common%20carotid%20artery.obj"
+    },
+    {
+      "id": "FJ5011",
+      "file": "FJ5011.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5011_BP29192_FMA66472_Trunk%20of%20right%20superior%20thyroid%20artery.obj",
+      "sha256": "fa1b5b6b10bf4ba7f4c64c4166ff7d2f4a727bf8bce8ad4b827fc6c6ec17995e",
+      "bytes": 38879,
+      "mirrorPath": "meshes/FJ5011_BP29192_FMA66472_Trunk of right superior thyroid artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5011_BP29192_FMA66472_Trunk%20of%20right%20superior%20thyroid%20artery.obj"
+    },
+    {
+      "id": "FJ5024",
+      "file": "FJ5024.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5024_BP29706_FMA49489_Anterior%20glandular%20branch%20of%20right%20superior%20thyroid%20artery.obj",
+      "sha256": "e88349aaaeb7ff497278b32b7e22e98f6424f012ec89e467fc67b09e707add8a",
+      "bytes": 35236,
+      "mirrorPath": "meshes/FJ5024_BP29706_FMA49489_Anterior glandular branch of right superior thyroid artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5024_BP29706_FMA49489_Anterior%20glandular%20branch%20of%20right%20superior%20thyroid%20artery.obj"
+    },
+    {
+      "id": "FJ5112",
+      "file": "FJ5112.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5112_BP29691_FMA49495_Lateral%20glandular%20branch%20of%20right%20superior%20thyroid%20artery.obj",
+      "sha256": "a96a08cd9fb7678f7a90e5fda0049457d75e52b3d72c498788231d9dff533d5c",
+      "bytes": 22925,
+      "mirrorPath": "meshes/FJ5112_BP29691_FMA49495_Lateral glandular branch of right superior thyroid artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5112_BP29691_FMA49495_Lateral%20glandular%20branch%20of%20right%20superior%20thyroid%20artery.obj"
+    },
+    {
+      "id": "FJ5163",
+      "file": "FJ5163.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5163_BP29700_FMA49492_Posterior%20glandular%20branch%20of%20right%20superior%20thyroid%20artery.obj",
+      "sha256": "d6cc1149ac13efe72dbda39b7719882d0f7e42bc0e554fc6997e2a3c036d9e8a",
+      "bytes": 20414,
+      "mirrorPath": "meshes/FJ5163_BP29700_FMA49492_Posterior glandular branch of right superior thyroid artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5163_BP29700_FMA49492_Posterior%20glandular%20branch%20of%20right%20superior%20thyroid%20artery.obj"
+    },
+    {
+      "id": "FJ5231",
+      "file": "FJ5231.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5231_BP28831_FMA50808_Right%20superior%20thyroid%20vein.obj",
+      "sha256": "3f0d2261340d017913708d10ec35517935e4210ca25a921d7fe300f06f98c884",
+      "bytes": 208072,
+      "mirrorPath": "meshes/FJ5231_BP28831_FMA50808_Right superior thyroid vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5231_BP28831_FMA50808_Right%20superior%20thyroid%20vein.obj"
+    },
+    {
+      "id": "FJ4999",
+      "file": "FJ4999.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4999_BP28847_FMA50824_Right%20middle%20thyroid%20vein.obj",
+      "sha256": "fa8dfaa98163a474b35275aeef67846462cef54def0405b48b410f7ea58a40df",
+      "bytes": 47063,
+      "mirrorPath": "meshes/FJ4999_BP28847_FMA50824_Right middle thyroid vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4999_BP28847_FMA50824_Right%20middle%20thyroid%20vein.obj"
+    },
+    {
+      "id": "FJ5099",
+      "file": "FJ5099.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5099_BP29793_FMA4757_Right%20inferior%20thyroid%20vein.obj",
+      "sha256": "868e511ab850b8d6287ba59dc28ffc2d629a68b92071461ec8706564a79710ff",
+      "bytes": 404679,
+      "mirrorPath": "meshes/FJ5099_BP29793_FMA4757_Right inferior thyroid vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5099_BP29793_FMA4757_Right%20inferior%20thyroid%20vein.obj"
+    },
+    {
+      "id": "FJ4021",
+      "file": "FJ4021.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4021_BP29389_FMA80694_Trunk%20of%20right%20recurrent%20laryngeal%20nerve.obj",
+      "sha256": "788f9eee2f853038749d9de7f7158d31666ccdc292143ba661afad7047de5fac",
+      "bytes": 157643,
+      "mirrorPath": "meshes/FJ4021_BP29389_FMA80694_Trunk of right recurrent laryngeal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4021_BP29389_FMA80694_Trunk%20of%20right%20recurrent%20laryngeal%20nerve.obj"
+    },
+    {
+      "id": "FJ3923",
+      "file": "FJ3923.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3923_BP29761_FMA80695_Trunk%20of%20left%20recurrent%20laryngeal%20nerve.obj",
+      "sha256": "d7a4d859120d395bc487b1ceb87f46d4e5157926802371da94ec9e2edc5a8164",
+      "bytes": 315416,
+      "mirrorPath": "meshes/FJ3923_BP29761_FMA80695_Trunk of left recurrent laryngeal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3923_BP29761_FMA80695_Trunk%20of%20left%20recurrent%20laryngeal%20nerve.obj"
+    }
+  ]
+}
