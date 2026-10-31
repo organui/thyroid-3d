@@ -53,7 +53,7 @@ export const structures: Structure[] = [
     elements: ['FJ3670'],
     color: '#a5564d',
     description:
-      'The narrow bridge that joins the two lobes across the front of the trachea, just below the cricoid cartilage.',
+      'The narrow bridge that joins the two lobes across the front of the trachea, usually over its second to fourth rings.',
     note: 'Its size varies a lot between people.',
   },
   {
@@ -141,7 +141,7 @@ export const structures: Structure[] = [
     elements: ['FJ2440'],
     color: '#b3bcae',
     description:
-      'A ring of cartilage at the bottom of the larynx. The isthmus of the thyroid lies just below it.',
+      'A ring of cartilage at the bottom of the larynx. The isthmus of the thyroid crosses the trachea a little below it.',
     note: 'Included for orientation.',
   },
   {
